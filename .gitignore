@@ -1,0 +1,20 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# virtual envirnoment
+bin/
+include/
+lib/
+lib64/
+share/
+# data information
+data/
+source/__pycache__/
+
+#files not neeeded
+lib64
+analiseLiga.odt
+pyvenv.cfg
+
+source/ligarecord.ini
